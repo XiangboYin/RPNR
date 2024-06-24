@@ -16,7 +16,7 @@
     <a href="https://scholar.google.com/citations?user=idiP90sAAAAJ&hl=zh-CN&oi=sra" rel="external nofollow noopener" target="_blank"><strong>Yanyun Qu†</strong></a>       
   </p>
 <p align="center">
-  <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Dual_Pseudo-Labels_Interactive_Self-Training_for_Semi-Supervised_Visible-Infrared_Person_Re-Identification_ICCV_2023_paper.pdf" rel="external nofollow noopener" target="_blank">Paper Link</a>
+  <a href="https://arxiv.org/pdf/2405.05613" rel="external nofollow noopener" target="_blank">Paper Link</a>
 
 ![RPNR](imgs/framework.png)
 This is an official code implementation of "Robust Pseudo-label Learning with Neighbor Relation for Unsupervised Visible-Infrared Person Re-Identification".
