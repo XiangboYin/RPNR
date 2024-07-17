@@ -19,7 +19,7 @@
   <a href="https://arxiv.org/pdf/2405.05613" rel="external nofollow noopener" target="_blank">Paper Link</a>
 
 ![RPNR](imgs/framework.png)
-This is an official code implementation of "Robust Pseudo-label Learning with Neighbor Relation for Unsupervised Visible-Infrared Person Re-Identification", Which is accept by ACMMM 2024.
+This is an official code implementation of "Robust Pseudo-label Learning with Neighbor Relation for Unsupervised Visible-Infrared Person Re-Identification", Which is accepted by ACMMM 2024.
 
 
 ## Requirements
