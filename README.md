@@ -49,10 +49,10 @@ You need to download the [baseline](https://drive.google.com/drive/folders/1KIuk
 sh test_sysu.sh          # for SYSU-MM01
 sh test_regdb.sh         # for RegDB
 ```
-## Performance
+<!--## Performance
 The following results are based on the collated code and do not differ much from the results in the original paper. The trained models can be downloaded [here](https://drive.google.com/drive/folders/1xJW5LCacF_WKNZmcctTR5XNfLr4rZ91c). 
 
-<!-- ### Performance on SYSU-MM01 (Batchsize = 128)
+### Performance on SYSU-MM01 (Batchsize = 128)
 <table class="tg">
 <thead>
   <tr>
