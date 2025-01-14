@@ -52,7 +52,7 @@ sh test_regdb.sh         # for RegDB
 ## Performance
 The following results are based on the collated code and do not differ much from the results in the original paper. The trained models can be downloaded [here](https://drive.google.com/drive/folders/1xJW5LCacF_WKNZmcctTR5XNfLr4rZ91c). 
 
-### Performance on SYSU-MM01 (Batchsize = 128)
+<!-- ### Performance on SYSU-MM01 (Batchsize = 128)
 <table class="tg">
 <thead>
   <tr>
@@ -436,7 +436,7 @@ The following results are based on the collated code and do not differ much from
   </tr>
 </tbody>
 </table>
-
+-->
 ## Citation
 If our work is helpful for your research, please consider citing:
 ```
